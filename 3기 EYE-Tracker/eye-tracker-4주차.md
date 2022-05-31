@@ -8,19 +8,19 @@ face-tracker내용
 
 그 후,  track-ir sdk를 이용하여 'nptest'라는 데이터 추출 응용 프로그램을 만들고, track-ir드라이버와 sdk를 실행하여, 데이터를 추출했다.  
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/1.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/1.png)
+![eye-tracker-4주차/1.png](eye-tracker-4주차/1.png)
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/2.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/2.png)
+![eye-tracker-4주차/2.png](eye-tracker-4주차/2.png)
 
 정상적으로 작동하는 모습
 
 # test파일 생성
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/3.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/3.png)
+![eye-tracker-4주차/3.png](eye-tracker-4주차/3.png)
 
 이렇게 test파일이 생긴다
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/4.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/4.png)
+![eye-tracker-4주차/4.png](eye-tracker-4주차/4.png)
 
 파일 안을 들여다 본 모습...
 
@@ -34,11 +34,11 @@ face-tracker내용
 
 하지만, 문제가 발생한다...이전에는 잘 되었던 웹캠을 키는 카메라의 응용 프로그램이 켜지지 않는다...
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/5.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/5.png)
+![eye-tracker-4주차/5.png](eye-tracker-4주차/5.png)
 
 그래서 파이참을 이용하여, 파이썬을 이용하여 웹캠을 이용하는 프로그램을 작성 중!
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/6.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/6.png)
+![eye-tracker-4주차/6.png](eye-tracker-4주차/6.png)
 
 아직, 개발이 완성되지 않은 상태이다
 
@@ -70,13 +70,13 @@ face-tracker내용
 
 opencv를 이용하여 영상을 재생 
 
-![컴퓨터에서 영상을 불러옴 ](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled.png)
+![컴퓨터에서 영상을 불러옴 ](eye-tracker-4주차/Untitled.png)
 
 컴퓨터에서 영상을 불러옴 
 
 결과 
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%201.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%201.png)
+![eye-tracker-4주차/Untitled%201.png](eye-tracker-4주차/Untitled%201.png)
 
 -live data.json
 
@@ -84,35 +84,35 @@ opencv를 이용하여 영상을 재생
 
 이는 따로 편집을 해줘야 함 
 
-![기존의 이용할 수 없었던 json파일을 편집하는 코드](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%202.png)
+![기존의 이용할 수 없었던 json파일을 편집하는 코드](eye-tracker-4주차/Untitled%202.png)
 
 기존의 이용할 수 없었던 json파일을 편집하는 코드
 
-![편집 전 json 형식](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%203.png)
+![편집 전 json 형식](eye-tracker-4주차/Untitled%203.png)
 
 편집 전 json 형식
 
-![편집 후 json 형식](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%204.png)
+![편집 후 json 형식](eye-tracker-4주차/Untitled%204.png)
 
 편집 후 json 형식
 
-![나머지 처리를 해준후 json파일](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%205.png)
+![나머지 처리를 해준후 json파일](eye-tracker-4주차/Untitled%205.png)
 
 나머지 처리를 해준후 json파일
 
 이렇게 json파일을 이용할 수 있는 형태로 편집 한 후 이용하기 위한 코드를 만든다.
 
-![json파일을 불러와 gp(gaze point)만 출력하는 코드 ](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%206.png)
+![json파일을 불러와 gp(gaze point)만 출력하는 코드 ](eye-tracker-4주차/Untitled%206.png)
 
 json파일을 불러와 gp(gaze point)만 출력하는 코드 
 
-![결과 ](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%207.png)
+![결과 ](eye-tracker-4주차/Untitled%207.png)
 
 결과 
 
 ## 가져온 영상파일과 편집한 json파일을 이용하여 영상에서 원으로 표시하는 코드 (미완성)
 
-![eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%208.png](eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8/Untitled%208.png)
+![eye-tracker-4주차/Untitled%208.png](eye-tracker-4주차/Untitled%208.png)
 
 ### *live data와 fullstream 의 time 동기화
 
