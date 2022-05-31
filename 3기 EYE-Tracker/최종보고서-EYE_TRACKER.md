@@ -1,12 +1,12 @@
 # 캡스톤 디자인 최종보고서-EYE TRACKER
 
-[1. Tobii pro glasses 2 ](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/1%20Tobii%20pro%20glasses%202%207eaefd1b332e411082b5eeba364acc72.md)
+[1. Tobii pro glasses 2 ](최종보고서-EYE_TRACKER/1_Tobii_pro_glasses_2.md)
 
-[2. Head Tracker](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/2%20Head%20Tracker%20561dfd02c50a43b3811359b740612b44.md)
+[2. Head Tracker](최종보고서-EYE_TRACKER/2_Head_Tracker.md)
 
-[3. YOLO Darknet Custimizing](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/3%20YOLO%20Darknet%20Custimizing%20653c815be3dc4e43a5570c3d3b7398a8.md)
+[3. YOLO Darknet Custimizing](최종보고서-EYE_TRACKER/3_YOLO_Darknet_Custimizing.md)
 
-[4. ARUCO Marker](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/4%20ARUCO%20Marker%20331001beb93741dba97aded71037a2c8.md)
+[4. ARUCO Marker](최종보고서-EYE_TRACKER/4_ARUCO_Marker.md)
 
 ---
 
@@ -16,11 +16,11 @@
 
 # 1.  tobii eyetracker
 
-![Head Unit](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled.png)
+![Head Unit](최종보고서-EYE_TRACKER/Untitled.png)
 
 Head Unit
 
-![Recording Unit ](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%201.png)
+![Recording Unit ](최종보고서-EYE_TRACKER/Untitled_1.png)
 
 Recording Unit 
 
@@ -41,7 +41,7 @@ Recording Unit
 
 위 링크를 통해 tobii pro glasses Controller 를 다운받아 연결이 잘 되었고 작동이 정상적으로 되는지 확인해보길 바란다. 
 
-![Controller 를 실행한 모습 ](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%202.png)
+![Controller 를 실행한 모습 ](최종보고서-EYE_TRACKER/Untitled_2.png)
 
 Controller 를 실행한 모습 
 
@@ -51,11 +51,11 @@ Controller 를 실행한 모습
 
 XXXXX = 무작위 파일명 
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%203.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%203.png)
+![최종보고서-EYE_TRACKER/Untitled_3.png](최종보고서-EYE_TRACKER/Untitled_3.png)
 
 2-2)측정된 gaze point는 json형태로 저장되게 된다. (파이썬의 dictionary와 비슷하다고 생각하면 됨)
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%204.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%204.png)
+![최종보고서-EYE_TRACKER/Untitled_4.png](최종보고서-EYE_TRACKER/Untitled_4.png)
 
 # live data.json 의 저장된 형식
 
@@ -127,7 +127,7 @@ gp3 - gaze point 3d
 
 GazePosition3d는 시선이 집중된 장면 카메라를 기준으로 한 3D 위치 (mm).
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%205.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f/Untitled%205.png)
+![최종보고서-EYE_TRACKER/Untitled_5.png](최종보고서-EYE_TRACKER/Untitled_5.png)
 
 ## 3) 실행 프로그램 - calibrate_and_record.py
 
@@ -258,7 +258,7 @@ if __name__ == '__main__':
 
  Natural Point사의 TrackIR5를 현재 사용하고 있다.
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled.png)
+![최종보고서-EYE_TRACKER/Untitled.png](최종보고서-EYE_TRACKER/Untitled.png)
 
 a. TrackClip PRO는 카메라에 적외선을 직접 보내는 액티브 LED 마커가 포함되어 있다
 
@@ -270,17 +270,17 @@ a. 기본적으로 제공되는 Natural Point사에서 제공되는 소프트웨
 
 [TrackIR_5.4.2.exe](https://s3.amazonaws.com/naturalpoint/trackir/software/TrackIR_5.4.2.exe)
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%201.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%201.png)
+![최종보고서-EYE_TRACKER/Untitled_1.png](최종보고서-EYE_TRACKER/Untitled_1.png)
 
 특징: 사용법이 매우 간단한 반면에 소프트웨어 화면상의 데이터를 전송하거나 사용할 수 없는 것이 특징! 현재 헤드트래커가 정상적으로 작동하는지 확인하는데에만 사용하면 된다!
 
 b. Natural Point사에서 제공하는 개발자 전용 소프트웨어
 
-[head_tracker사용.zip](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/head_tracker.zip)
+[head_tracker사용.zip](최종보고서-EYE_TRACKER/head_tracker.zip)
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%202.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%202.png)
+![최종보고서-EYE_TRACKER/Untitled_2.png](최종보고서-EYE_TRACKER/Untitled_2.png)
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%203.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%203.png)
+![최종보고서-EYE_TRACKER/Untitled_3.png](최종보고서-EYE_TRACKER/Untitled_3.png)
 
 특징: 압축파일을 다운받아 압축을 해제하면 NPTEST의 솔루션 파일이 있다. 이것을 통해 자신이 원하는 대로 NPTEST의 코드수정을 통하여 빌드를 하면 된다. data생성 폴더에 들어가면 이미 nptest를 빌드한 폴더 또한 존재한다. 하지만, nptest는 exe로 빌드되기 때문에 window환경에만 유효하다. *ubuntu환경에서는 사용이 불가능하다.
 
@@ -288,7 +288,7 @@ c. Linux Tracker
 
 [https://github.com/GNOME/tracker](https://github.com/GNOME/tracker)
 
-![%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%204.png](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%204.png)
+![최종보고서-EYE_TRACKER/Untitled_4.png](최종보고서-EYE_TRACKER/Untitled_4.png)
 
 특징: ros를 사용하여 데이터를 하나로 집약시켜, 실질적으로 사용하려면 linux tracker를 사용해야 한다. 위의 github링크의 wiki부분을 들어가면 설치방법이 있다. 여기서 순차적으로 시키는대로하면 linux tracker가 설치된다. 이후, lidar, camera, can, eye tracker와 같이 다양한 센서와 실시간으로 데이터를 주고 받으며 통신하면 된다.
 
@@ -393,9 +393,9 @@ darknet.exe detector test data/obj.data yolo-obj.cfg yolo-obj_last.weights  를 
 
 ### 수많은 사진을 boxing하기 전 컴퓨터에서 학습이 잘 진행되는지 qr코드를 이용하여 학습한 내용
 
-![yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/chart_yolo-obj.png](yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/chart_yolo-obj.png)
+![yolo_customizing_how/chart_yolo-obj.png](yolo_customizing_how/chart_yolo-obj.png)
 
-![yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/2.jpg](yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/2.jpg)
+![yolo_customizing_how/2.jpg](yolo_customizing_how/2.jpg)
 
 위와 같은 설명을 통해 자신만의 필요한 weights파일을 만들어 프로젝트에 적용한다. 
 
@@ -404,7 +404,7 @@ loss는 2.3에서 내려가질 않아서 중단
 
 그 결과:
 
-![yolo%20customizing%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20e051f06dff374b0791772c93351624bf/Untitled.png](yolo%20customizing%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20e051f06dff374b0791772c93351624bf/Untitled.png)
+![yolo_customizing_train/Untitled.png](yolo_customizing_train/Untitled.png)
 
 성공적으로 실행됨을 확인할 수 있다. 
 
@@ -412,7 +412,7 @@ loss는 2.3에서 내려가질 않아서 중단
 
 ## marker의 필요성
 
-![모니터의 모서리에 aruco marker가 부착된 사진](%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681/Untitled%205.png)
+![모니터의 모서리에 aruco marker가 부착된 사진](최종보고서-EYE_TRACKER/Untitled_5.png)
 
 모니터의 모서리에 aruco marker가 부착된 사진
 
@@ -651,11 +651,11 @@ cv::imwrite("marker22.png", markerImage);
 
 프로젝트에서 오른쪽 마우스 클릭하여 확인!
 
-![Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled.png](Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled.png)
+![Aruco_Marker/Untitled.png](Aruco_Marker/Untitled.png)
 
 비주얼스튜디오2019의 c++환경에서 위의 코드를 돌리면 프로젝트 폴더에 아래와 같이 생성된다.
 
-![Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled%201.png](Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled%201.png)
+![Aruco_Marker/Untitled_1.png](Aruco_Marker/Untitled_1.png)
 
 위의 코드를 인쇄하여 모니터화면의 적당한 위치에 붙여 코드를 완성시키자!
 

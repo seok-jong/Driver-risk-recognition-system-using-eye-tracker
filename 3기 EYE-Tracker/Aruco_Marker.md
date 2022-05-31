@@ -41,10 +41,10 @@ cv::imwrite("marker22.png", markerImage);
 
 프로젝트에서 오른쪽 마우스 클릭하여 확인!
 
-![Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled.png](Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled.png)
+![Aruco_Marker/Untitled.png](Aruco_Marker/Untitled.png)
 
 비주얼스튜디오2019의 c++환경에서 위의 코드를 돌리면 프로젝트 폴더에 아래와 같이 생성된다.
 
-![Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled%201.png](Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e/Untitled%201.png)
+![Aruco_Marker/Untitled_1.png](Aruco_Marker/Untitled_1.png)
 
 위의 코드를 인쇄하여 모니터화면의 적당한 위치에 붙여 코드를 완성시키자!
