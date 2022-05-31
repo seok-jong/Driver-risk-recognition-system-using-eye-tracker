@@ -12,7 +12,7 @@
 
 [https://www.python.org/downloads/](https://www.python.org/downloads/)을 들어가셔서 파이썬 버전 3.5.4를 다운받아 설치한 후 확인해줍니다.
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/1.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/1.png)
+![eye-tracker-3주차/1.png](eye-tracker-3주차/1.png)
 
 ## 3. 여러 패키지 설치하기
 
@@ -20,7 +20,7 @@
 
 행렬이나 일반적으로 대규모 다차원 배열을 쉽게 처리 할 수 있도록 지원하는 파이썬의 라이브러리이다.  데이터 구조 외에도 수치 계산을 위해 효율적으로 구현된 기능을 제공
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/2.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/2.png)
+![eye-tracker-3주차/2.png](eye-tracker-3주차/2.png)
 
 ### 2. tensorflow(텐서플로우):
 
@@ -28,13 +28,13 @@
 
 또한, 심볼릭 수학 라이브러리이자, 뉴럴 네트워크같은 기계학습 응용프로그램에도 사용
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/3.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/3.png)
+![eye-tracker-3주차/3.png](eye-tracker-3주차/3.png)
 
 ### 3. keras(케라스):
 
  파이썬으로 작성된 오픈 소스 신경망 라이브러리. 쉽게 말해, 딥러닝과 같은 학습을 하는곳에 사용된다.
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/4.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/4.png)
+![eye-tracker-3주차/4.png](eye-tracker-3주차/4.png)
 
 ### 4. pandas(판다스):
 
@@ -42,15 +42,15 @@
 
 숫자 테이블 및 시계열을 조작하기위한 데이터 구조 및 조작을 제공
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/5.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/5.png)
+![eye-tracker-3주차/5.png](eye-tracker-3주차/5.png)
 
 ### 5. matplotlib(맷플랏라이브러리):
 
  파이썬에서 매트랩과 유사한 그래프 표시를 가능케 하는 라이브러리. 나중에 헤드트래커에서 얻은 정보를 정리하여 보여주는데 사용되는 라이브러리이다!!
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/6.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/6.png)
+![eye-tracker-3주차/6.png](eye-tracker-3주차/6.png)
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/7.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/7.png)
+![eye-tracker-3주차/7.png](eye-tracker-3주차/7.png)
 
 ### 6. sklearn(사이킷런): Python 프로그래밍 언어를위한 무료 소프트웨어 기계 학습 라이브러리
 
@@ -60,13 +60,13 @@ Python 프로그래밍 언어를위한 오픈 소스 이미지 처리 라이브�
 
 분할, 기하 변환, 색 공간 조작, 분석, 필터링, 형태, 특징 탐지 등을위한 알고리즘
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/8.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/8.png)
+![eye-tracker-3주차/8.png](eye-tracker-3주차/8.png)
 
 ### 8. image(이미지):
 
 이미지 및 비디오의 자르기, 크기 조정, 썸네일 링, 오버레이 및 마스킹을 제공하는 Django 응용 프로그램
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/9.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/9.png)
+![eye-tracker-3주차/9.png](eye-tracker-3주차/9.png)
 
 ## 4. 웹캠으로 사진 데이터 수집하기
 
@@ -78,7 +78,7 @@ camera time.csv파일이 생성되는데 이것은 camera가 찍은 시간을 �
 
 찍은 사진들이 인풋데이터이다.
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/10.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/10.png)
+![eye-tracker-3주차/10.png](eye-tracker-3주차/10.png)
 
 ## 5. track ir v5.exe설치 하기
 
@@ -90,13 +90,13 @@ alt+f7을 해주면 화면고정을 다시 실행시켜 줄 수 있다.
 
 그냥 홈페이지에 들어가면 sdk를 얻을 수 없다. 그렇기 때문에 담당자에게 따로 메일을 보내서 sdk파일을 받아야한다. 
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/11.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/11.png)
+![eye-tracker-3주차/11.png](eye-tracker-3주차/11.png)
 
 sdk의 압축을 풀어주고, 
 
 C:\Users\찌워니컴퓨터\OneDrive\Desktop\TrackIR_Enhanced_SDK_2019_WIP\TrackIR_Enhanced_SDK_2019\Developer Package\Sample Code\Game Client Sample (cpp)에 들어가면 NPTest.proj를 실행 후 source file의 NPTestDlg를 클릭하여 타이머의 데이터 코드를 바꿔줘야 한다.
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/Untitled.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/Untitled.png)
+![eye-tracker-3주차/Untitled.png](eye-tracker-3주차/Untitled.png)
 
 // Timer routine for test purposes -- simply pumps numbered text messages to the
 // output window to check UI message scrolling, etc.
@@ -142,7 +142,7 @@ fclose(fp);
 
 그렇게 되면 nptest.exe가 생성된다.
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/12.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/12.png)
+![eye-tracker-3주차/12.png](eye-tracker-3주차/12.png)
 
 →2020년 04월 23일 현재 지금 track ir 드라이버가 제대로 실행되지 않기 때문에 문제 해결 후 다시 실행해보겠습니다.
 
@@ -152,7 +152,7 @@ fclose(fp);
 
    
 
-![eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/Untitled%201.png](eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3/Untitled%201.png)
+![eye-tracker-3주차/Untitled%201.png](eye-tracker-3주차/Untitled%201.png)
 
 # live data.json 의 저장된 형식
 
