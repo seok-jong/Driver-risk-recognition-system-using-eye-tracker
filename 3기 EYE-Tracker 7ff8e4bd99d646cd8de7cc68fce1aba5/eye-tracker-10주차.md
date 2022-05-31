@@ -10,9 +10,9 @@ comand창에서 cd C:\darknet-master\darknet-master\build\darknet\x64  를 입�
 
 darknet.exe detector demo data/coco.data cfg/yolov3.cfg yolov3.weights -i 0 data/video/fullstream.mp4  ← 명령문을 입력하여 다크넷 실행 
 
-![eye-tracker-10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec4b60698260494eabaf3f7c2a2a25b1/Untitled.png](eye-tracker-10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec4b60698260494eabaf3f7c2a2a25b1/Untitled.png)
 
-![eye-tracker-10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec4b60698260494eabaf3f7c2a2a25b1/Untitled.png](eye-tracker-10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec4b60698260494eabaf3f7c2a2a25b1/Untitled.png)
+
+![eye-tracker-10주차/Untitled.png](eye-tracker-10주차/Untitled.png)
 
 정상적으로 실행되는 것을 확인 
 
@@ -228,9 +228,9 @@ c언어를 이용한 코드기 때문에 파이썬과는 매우 다르다.
 
 이렇게 하여 image_opencv.cpp과 demo.c의 소스코드를 수정하였는데, 전체적인 소스코드는 이러하다. 
 
-[demo.c](eye-tracker-10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec4b60698260494eabaf3f7c2a2a25b1/demo.c)
+[demo.c](eye-tracker-10주차/demo.c)
 
-[image_opencv.cpp](eye-tracker-10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec4b60698260494eabaf3f7c2a2a25b1/image_opencv.cpp)
+[image_opencv.cpp](eye-tracker-10주차/image_opencv.cpp)
 
 다음 시간에는 우리가 사용할 비디오를 프레임별로 잘라서 딥러닝 학습을 시키는 작업을 진행할 예정이다.
 

@@ -1,6 +1,6 @@
 # eye-tracker-7주차
 
-![eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled.png](eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled.png)
+![eye-tracker-7주차/Untitled.png](eye-tracker-7주차/Untitled.png)
 
 tobii 공식홈페이지 sync에 관현 설명 ([https://connect.tobiipro.com/s/article/How-can-I-synchronize-the-video-and-the-gaze-data-from-Tobii-Pro-Glasses-2?language=ko](https://connect.tobiipro.com/s/article/How-can-I-synchronize-the-video-and-the-gaze-data-from-Tobii-Pro-Glasses-2?language=ko))
 
@@ -16,7 +16,7 @@ tobii 공식홈페이지 sync에 관현 설명 ([https://connect.tobiipro.com/s/
 
  
 
-![eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled%201.png](eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled%201.png)
+![eye-tracker-7주차/Untitled%201.png](eye-tracker-7주차/Untitled%201.png)
 
 명령창에 frame당 정보들이 출력되는것을 확인 
 
@@ -24,9 +24,9 @@ tobii 공식홈페이지 sync에 관현 설명 ([https://connect.tobiipro.com/s/
 
 하지만
 
-![eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled%202.png](eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled%202.png)
+![eye-tracker-7주차/Untitled%202.png](eye-tracker-7주차/Untitled%202.png)
 
-![eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled%203.png](eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/Untitled%203.png)
+![eye-tracker-7주차/Untitled%203.png](eye-tracker-7주차/Untitled%203.png)
 
 둘(vts,pts)를 비교했을 때 일치하는 수를 찾을 수 없었음 
 
@@ -40,7 +40,7 @@ tobii 공식홈페이지 sync에 관현 설명 ([https://connect.tobiipro.com/s/
     
 - 이 때 오른쪽 클릭 메뉴에 관련된 레지스트리를 수정하면 **Shift + 오른쪽 클릭** 메뉴에 “**여기서 명령창 열기**“를 추가할 수 있습니다.
 
-[add_open_cmd_here_for_windows10 (1).reg](eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d/add_open_cmd_here_for_windows10_(1).reg)
+[add_open_cmd_here_for_windows10 (1).reg](eye-tracker-7주차/add_open_cmd_here_for_windows10_(1).reg)
 
 ## ffmpeg를 사용하여 pts 데이터를 얻기 위해 먼저 mpeg를 visual studio로 빌드 하겠습니다
 
