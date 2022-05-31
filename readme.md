@@ -1,45 +1,42 @@
 # 3기 EYE-Tracker
 
-[eye-tracker-1주차 ](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6.md)
+[eye-tracker-1주차 ](EYE-Tracker/eye-tracker-1주차.md)
 
-[eye-tracker-2주차 ](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20af98dc85653c434a8ac72a24c2314dab.md)
+[eye-tracker-2주차 ](EYE-Tracker/eye-tracker-2주차.md)
 
-[eye-tracker-3주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209e11aeeec11f4ff191d77bbc2f4934f3.md)
+[eye-tracker-3주차](EYE-Tracker/eye-tracker-3주차.md)
 
-[eye-tracker-4주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20eb2830f7de404a288eec3029da211fe8.md)
+[eye-tracker-4주차](EYE-Tracker/eye-tracker-4주차.md)
 
-[eye-tracker-5주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20e3b745c5e627404687aec7d581ca8f1d.md)
+[eye-tracker-5주차](EYE-Tracker/eye-tracker-5주차.md)
 
-[eye-tracker-6주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%204b5eb295c10846d382302299dc8e3f85.md)
+[eye-tracker-6주차](EYE-Tracker/eye-tracker-6주차.md)
 
-[eye-tracker-7주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec87727741344248996b56ccf6c3778d.md)
+[eye-tracker-7주차](EYE-Tracker/eye-tracker-7주차.md)
 
-[eye-tracker-8주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-8%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%201476be4fb4c44a7fba36e1b78062d58a.md)
+[eye-tracker-8주차](EYE-Tracker/eye-tracker-8주차.md)
 
-[eye-tracker-9주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2006ca4ebc2ebf4655a0e59eda6b72f5f6.md)
+[eye-tracker-9주차](EYE-Tracker/eye-tracker-9주차.md)
 
-[eye-tracker-10주차](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye-tracker-10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20ec4b60698260494eabaf3f7c2a2a25b1.md)
+[eye-tracker-10주차](EYE-Tracker/eye-tracker-10주차.md)
 
-[eye tracker 무선 연결](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/eye%20tracker%20%E1%84%86%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%AF%2051e67829132340ea86acab16b51e5532.md)
+[eye tracker 무선 연결](EYE-Tracker/eye_tracker_무선_연결.md)
 
-[visual studio 2019에 yolo, cuda, cudnn, opencv_contrib 적용하기](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/visual%20studio%202019%E1%84%8B%E1%85%A6%20yolo,%20cuda,%20cudnn,%20opencv_con%20b42fc1389caa4d5f816d03dc2f2384a1.md)
+[visual studio 2019에 yolo, cuda, cudnn, opencv_contrib 적용하기](EYE-Tracker/setting_visual_studio.md)
 
-[yolo customizing 방법 및 연습 ](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1.md)
+[yolo customizing 방법 및 연습 ](EYE-Tracker/yolo_customizing_how.md)
 
-[yolo customizing 학습](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/yolo%20customizing%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20e051f06dff374b0791772c93351624bf.md)
+[yolo customizing 학습](EYE-Tracker/yolo_customizing_train.md)
 
-[Aruco Marker 생성하기!](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/Aruco%20Marker%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5!%20d2b3eae362b04c8ab1340af3d9331f9e.md)
+[Aruco Marker 생성하기!](EYE-Tracker/Aruco_Marker.md)
 
-[darknet에 qr코드를 적용한 코드](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/darknet%E1%84%8B%E1%85%A6%20qr%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%20e70c95877cb44c37851bb7de724185e7.md)
+[darknet에 qr코드를 적용한 코드](EYE-Tracker/darknet_qr.md)
 
-[아이트래커 핵심코드](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%84%8F%E1%85%A5%20%E1%84%92%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B5%E1%86%B7%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3%207cb27f4426fc4742ad6874da40ff1303.md)
+[아이트래커 핵심코드](EYE-Tracker/아이트래커_핵심코드.md)
 
-[아이트래커 파일](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%84%8F%E1%85%A5%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20559faa0d2d3b4710bc1062973c6f7c49.md)
+[아이트래커 파일](EYE-Tracker/아이트래커_파일.md)
 
-[캡스톤 디자인 최종 보고서 현석종](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%209b78d42e00cb4c05b9aed61cdaf2138f.md)
+[캡스톤 디자인 최종 보고서 현석종](EYE-Tracker/최종보고서_현석종.md)
 
-[캡스톤 디자인 최종 보고서 이지원](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB%20c421e200c26640f496fb54b24f10d244.md)
 
-[캡스톤 디자인 최종보고서-EYE TRACKER](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-EYE%20TRACKER%2062f30cab29a942e58b58594c69f48681.md)
-
-[Untitled](3%E1%84%80%E1%85%B5%20EYE-Tracker%207ff8e4bd99d646cd8de7cc68fce1aba5/Untitled%20Database%20c3a9517aad1845a9b5d00abcab0cc01a.csv)
+[캡스톤 디자인 최종보고서-EYE TRACKER](EYE-Tracker/최종보고서-EYE_TRACKER.md)
