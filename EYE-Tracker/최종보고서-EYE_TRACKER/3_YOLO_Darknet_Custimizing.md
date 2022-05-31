@@ -99,9 +99,9 @@ darknet.exe detector test data/obj.data yolo-obj.cfg yolo-obj_last.weights  를 
 
 ### 수많은 사진을 boxing하기 전 컴퓨터에서 학습이 잘 진행되는지 qr코드를 이용하여 학습한 내용
 
-![../yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/chart_yolo-obj.png](../yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/chart_yolo-obj.png)
+![../yolo_customizing_how/chart_yolo-obj.png](../yolo_customizing_how/chart_yolo-obj.png)
 
-![../yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/2.jpg](../yolo%20customizing%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%201a29c746a5f94da6a22263e90c8692f1/2.jpg)
+![../yolo_customizing_how/2.jpg](../yolo_customizing_how/2.jpg)
 
 위와 같은 설명을 통해 자신만의 필요한 weights파일을 만들어 프로젝트에 적용한다. 
 
@@ -110,6 +110,6 @@ loss는 2.3에서 내려가질 않아서 중단
 
 그 결과:
 
-![../yolo%20customizing%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20e051f06dff374b0791772c93351624bf/Untitled.png](../yolo%20customizing%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20e051f06dff374b0791772c93351624bf/Untitled.png)
+![../yolo_customizing_train/Untitled.png](../yolo_customizing_train/Untitled.png)
 
 성공적으로 실행됨을 확인할 수 있다.
