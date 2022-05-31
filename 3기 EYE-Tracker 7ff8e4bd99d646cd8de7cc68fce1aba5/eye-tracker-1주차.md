@@ -14,13 +14,13 @@
 
 SDK 정보 
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/ASD.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/ASD.png)
+![eye-tracker-1주차/ASD.png](eye-tracker-1주차/ASD.png)
 
 -무선연결 기능을 지원한는 모델은 IPv4연결을 지원하지만 유선연결만 가능하는 모델은 IPv4 를 지원하지 않고 자동적으로 배정받는 IPv4주소는 0.0.0.0이며 이는 사용할 수 없다.
 
 —IPv4주소를 받기위해 공유기를 이용한 시도(유/무선)  →PC에서 ip는 정상적으로 잡히나 TCP/IP를 통한 데이터 수송신 불가능  
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled.png)
+![eye-tracker-1주차/Untitled.png](eye-tracker-1주차/Untitled.png)
 
 →SD카드에 영상 및 각종 데이터가 저장되는 디렉토리구조 
 
@@ -28,13 +28,13 @@ SDK 정보
 
 최종적으로 segments파일에 들어가면 시간당 초점데이터와 영상을 확인할 수 있다.
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%201.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%201.png)
+![eye-tracker-1주차/Untitled%201.png](eye-tracker-1주차/Untitled%201.png)
 
 ---
 
 → 모든 특성데이터는 json형식으로 SD카드에 저장되며 각 특성별 고유한 ID가 부여된다.
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%202.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%202.png)
+![eye-tracker-1주차/Untitled%202.png](eye-tracker-1주차/Untitled%202.png)
 
 D6.1.4 Gaze Position
 The gaze position is the position on the scene
@@ -46,9 +46,9 @@ Top left corner is (0,0), bottom right corner is
 
 EX)
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%203.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%203.png)
+![eye-tracker-1주차/Untitled%203.png](eye-tracker-1주차/Untitled%203.png)
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%204.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%204.png)
+![eye-tracker-1주차/Untitled%204.png](eye-tracker-1주차/Untitled%204.png)
 
 데이터에 대한 요청은 HTTP TCP/IP통신의 REST API형식으로 실행된다.
 
@@ -62,7 +62,7 @@ EX)
 
 ## 2. Controller 실행
 
-![controller 실행 화면](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/KakaoTalk_20200409_151949431.jpg)
+![controller 실행 화면](eye-tracker-1주차/KakaoTalk_20200409_151949431.jpg)
 
 controller 실행 화면
 
@@ -82,15 +82,15 @@ github에서 tobii공식 홈페이지에서 제공하는 코드를 다운 및 �
 
 ### controller.py
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%205.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%205.png)
+![eye-tracker-1주차/Untitled%205.png](eye-tracker-1주차/Untitled%205.png)
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%206.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%206.png)
+![eye-tracker-1주차/Untitled%206.png](eye-tracker-1주차/Untitled%206.png)
 
 → 메인 함수 실행 후 기기의 ip주소를 추적해 연결하는 코드 
 
 TCP/IP통신을 이용하기 위해 PYTHON 상에서 socket을 이용하는 것을 확인 할 수 있다.
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%207.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%207.png)
+![eye-tracker-1주차/Untitled%207.png](eye-tracker-1주차/Untitled%207.png)
 
 → 상단의 mksock은 요청을 할때마다 실행되며 socket을 생성하는 함수 
 
@@ -98,13 +98,13 @@ TCP/IP통신을 이용하기 위해 PYTHON 상에서 socket을 이용하는 것�
 
 (decode('utf-8')은 python버전에 따라 선택적으로 수정 ) 
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%208.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%208.png)
+![eye-tracker-1주차/Untitled%208.png](eye-tracker-1주차/Untitled%208.png)
 
 →목적별로 요청한 데이터를 받는 코드 (json 형식으로 데이터를 받는것을 확인할 수 있다.) 
 
 ### calibrae_and_record.py
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%209.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%209.png)
+![eye-tracker-1주차/Untitled%209.png](eye-tracker-1주차/Untitled%209.png)
 
 → 기기를 연결하고 calibration을 실행한 후 record를 시작하는 코드 
 
@@ -114,7 +114,7 @@ TCP/IP통신을 이용하기 위해 PYTHON 상에서 socket을 이용하는 것�
 
 실행결과 
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2010.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2010.png)
+![eye-tracker-1주차/Untitled%2010.png](eye-tracker-1주차/Untitled%2010.png)
 
 connect함수를 이용하여 eye-tracker의 IP를 찾은 후 연결 시도하고 베터리와 SD카드의 용량을 확인후 출력하고 저장되는 정보와파일 이름 등을 출력 
 
@@ -122,7 +122,7 @@ Calibraion 시도 후 성공시 HTTP통신을 이용해 녹화시작
 
 ### streaming.py
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2011.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2011.png)
+![eye-tracker-1주차/Untitled%2011.png](eye-tracker-1주차/Untitled%2011.png)
 
 → 기기를 연결한 후 배터리 상태와 SD카드의 용량을 체크하여 출력한뒤 잠깐의 지연 후 
 
@@ -134,17 +134,17 @@ keyboardinterrupt가 실행되면 루프를 종료하여 프로그램이 종료�
 
 실행결과 
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2012.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2012.png)
+![eye-tracker-1주차/Untitled%2012.png](eye-tracker-1주차/Untitled%2012.png)
 
 → 디바이스를 연결하 후 실시간 데이터를 출력 
 
 ## live_scene.py
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2013.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2013.png)
+![eye-tracker-1주차/Untitled%2013.png](eye-tracker-1주차/Untitled%2013.png)
 
 기기의 IPv4 주소를 이용하여 http 통신으로 영상데이터를 요청하는 코드 
 
-![terminal에서 live_scene.py를 실행 한 결과 ](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2014.png)
+![terminal에서 live_scene.py를 실행 한 결과 ](eye-tracker-1주차/Untitled%2014.png)
 
 terminal에서 live_scene.py를 실행 한 결과 
 
@@ -154,7 +154,7 @@ address의 경우 확인 후 수정하여 입력 하여도 데이터를 받아�
 
 이처럼 데이터를 받아올 수 없는 것을 확인 
 
-![eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2015.png](eye-tracker-1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20080a6cbdbf46485cba168bc3910756a6/Untitled%2015.png)
+![eye-tracker-1주차/Untitled%2015.png](eye-tracker-1주차/Untitled%2015.png)
 
 ---
 
